@@ -51,7 +51,7 @@ It includes the total number of employees, how many left the company, the attrit
 ---
 
 ### Key Attrition Insights
-![Key Attrition Insights](screenshots/Attrition_Insight.JPG)
+![Key Attrition Insights](screenshots/Attrition_insight.JPG)
 
 This view summarizes the main insights from the analysis:
 - Employees with low job satisfaction have higher attrition rates
