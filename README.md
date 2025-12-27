@@ -73,3 +73,8 @@ By selecting a department, it is possible to analyze attrition trends by year, a
 
 This image shows the data model used in Power BI.  
 The project follows a star schema design with one fact table and multiple dimension tables, making the data easier to analyze and maintain.
+
+## What I Learned
+
+Through this project, I improved my skills in SQL analysis, data modeling, and Power BI dashboard design.  
+I learned how to identify key drivers of employee attrition and how to communicate insights using clear and interactive visuals.
