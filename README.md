@@ -39,3 +39,37 @@ The project was built using **Power BI** for visualization and **SQL** for data 
 - **Drillthrough page:** Department-level deep dive (age, gender, overtime, trends)
 
 ---
+
+## Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/Dashboard_view.JPG)
+
+This dashboard shows the overall employee attrition in the company.  
+It includes the total number of employees, how many left the company, the attrition rate, and breakdowns by job satisfaction, job role, education field, and business travel.
+
+---
+
+### Key Attrition Insights
+![Key Attrition Insights](screenshots/Attrition_Insight.JPG)
+
+This view summarizes the main insights from the analysis:
+- Employees with low job satisfaction have higher attrition rates
+- Some job roles show significantly higher attrition than others
+- Business travel and overtime appear to influence employee turnover
+
+---
+
+### Department Drillthrough
+![Department Drillthrough](screenshots/DrillThrough_view.JPG)
+
+This page allows deeper analysis by department.  
+By selecting a department, it is possible to analyze attrition trends by year, age group, gender, and overtime status.
+
+---
+
+### Data Model (Star Schema)
+![Star Schema Model](screenshots/StarSchema_Model.JPG)
+
+This image shows the data model used in Power BI.  
+The project follows a star schema design with one fact table and multiple dimension tables, making the data easier to analyze and maintain.
