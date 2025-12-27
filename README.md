@@ -1,8 +1,6 @@
 # hr-attrition-analysis
 Analysis of employee attrition using Power BI and SQL to identify key drivers and support retention decisions.
 
-# HR Attrition Analysis
-
 ## Project Overview
 This project analyzes employee attrition to identify key drivers and support data-driven retention decisions.  
 The analysis focuses on workforce demographics, job characteristics, and trends over time.
