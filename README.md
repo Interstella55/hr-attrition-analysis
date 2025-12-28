@@ -7,6 +7,8 @@ The analysis focuses on workforce demographics, job characteristics, and trends 
 
 The project was built using **Power BI** for visualization and **SQL** for data analysis and preparation.
 
+**Data source:** IBM HR Attrition dataset (Kaggle)
+
 ---
 
 ## Business Questions
